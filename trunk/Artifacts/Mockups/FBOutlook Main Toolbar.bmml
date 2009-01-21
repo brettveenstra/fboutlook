@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="sketch">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::MenuBar" x="278" y="135" w="984" h="84" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login/LogOut%2C%20Project%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20Area%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="476" y="164" w="148" h="-1" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Project%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="718" y="164" w="148" h="-1" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Area%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="1011" y="164" w="-1" h="-1" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bug</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="1057" y="164" w="-1" h="-1" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Feature</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="1131" y="164" w="-1" h="-1" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inquiry</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="294" y="161" w="-1" h="-1" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login/Logout</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
